@@ -91,6 +91,10 @@ li {
 .section-two {
     background-color: orangered;
     height: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 
 }
 
@@ -99,10 +103,6 @@ li {
 .section-three {
     background-color: lightcoral;
     height: 800px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
 }
 
 iframe { 
