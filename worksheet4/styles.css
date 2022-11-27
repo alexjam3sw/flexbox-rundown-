@@ -15,7 +15,7 @@ header {
 }
 
 h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family:'Anton', sans-serif;
     font-size: 60px;
     text-align: center;
 }
@@ -204,6 +204,13 @@ footer {
     border-radius: 10px;
     box-shadow: 10px 10px 20px black;
     width: 70%;
+}
+
+h1 {
+font-family:sneakers-pro, sans-serif;
+font-weight: 500;
+font-style: normal;
+
 }
 
 
